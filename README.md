@@ -19,4 +19,4 @@
 
 ### Javascript
 
-[正则](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
+[正则特殊字符](http://www.xiaoxiaozi.com/2009/08/02/1286/)
