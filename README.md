@@ -20,3 +20,7 @@
 ### Javascript
 
 [正则特殊字符](http://www.w3school.com.cn/jsref/jsref_obj_regexp.asp)(http://www.xiaoxiaozi.com/2009/08/02/1286/)
+
+### jQuery
+
+[How to Create a Basic Plugin](https://learn.jquery.com/plugins/basic-plugin-creation/)
