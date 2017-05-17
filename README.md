@@ -4,6 +4,8 @@
 ### Javascript
 [正则特殊字符](http://www.w3school.com.cn/jsref/jsref_obj_regexp.asp)(http://www.xiaoxiaozi.com/2009/08/02/1286/)
 
+[属性的可枚举性和所有权](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
+
 ### jQuery
 [How to Create a Basic Plugin](https://learn.jquery.com/plugins/basic-plugin-creation/)
 
@@ -14,11 +16,6 @@
 
 ### Webpack
 [webpack 2 打包实战](https://github.com/fenivana/webpack-in-action)
-
-### Eslint
-[ES6编码规范](https://github.com/yuche/javascript)
-
-[React编码规范](https://github.com/JasonBoy/javascript/tree/master/react)
 
 ### JWT
 [JSON Web Token - 在Web应用间安全地传递信息](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
